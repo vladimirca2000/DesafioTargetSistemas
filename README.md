@@ -8,4 +8,4 @@ Cada arquivo contem a resposta de uma questão
 ([Questão 04](https://github.com/vladimirca2000/DesafioTargetSistemas/blob/master/questao04.md))
 ([Questão 05](https://github.com/vladimirca2000/DesafioTargetSistemas/blob/master/questao05.md))
 
-* O arquivo TestQ3.Zip, tem a solution e projeto da questão 3
+* O arquivo ([TestQ3.Zip](https://github.com/vladimirca2000/DesafioTargetSistemas/blob/master/TesteQ3.zip)), tem a solution e projeto da questão 3
