@@ -58,7 +58,7 @@ Conclusão:
 
 A posição dos pedágios pode afetar o ponto de encontro.
 
-* Caso até o ponto de encontro o casso tenha passado por somente 2 pedagio deve se levar em consigerção apenas 2 tempo perdido.
+* Caso até o ponto de encontro o carro tenha passado por somente 2 pedagio deve se levar em consigerção apenas 2 tempo perdido.
 * Caso tenha passado por apenas um a regra continua a mesma, considera apena 1 na perda total.
 * Até mesmo não ter peda nenhuma vaso os pedagios esteja após o ponto de encontro.
 * Com isto existe muitas formas de calcular, dependendo da localização dos pedagios.
