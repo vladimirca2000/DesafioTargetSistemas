@@ -104,4 +104,4 @@ A posição dos pedágios pode afetar o ponto de encontro.
 * PercursoCarro = Velocidade * (tempoMedio - tempoPedagio) => 90 * (36,77/60) = 55,15 Km
 * PercursoCaminhão = Velocidade * tempoMedio  => 80 * (51,77/60) = 69,02 Km
 
-> Este que o carro passa pelos 3 pedágios antes de encontrar com caminhão bate com calculo a inicial, variando no arredondamento. Apenas outra forma de fazer.
+> Este que o carro passa pelos 3 pedágios antes de encontrar com caminhão bate com calculo a inicial apresentado acima, variando no arredondamento. Apenas outra forma de fazer.
