@@ -54,7 +54,14 @@ Conclusão:
 
 ![image](https://github.com/user-attachments/assets/0534e4df-858f-4edf-b2c0-6fbbf1104c77)
 
+## Considerações
 
+A posição dos pedágios pode afetar o ponto de encontro.
+
+* Caso até o ponto de encontro o casso tenha passado por somente 2 pedagio deve se levar em consigerção apenas 2 tempo perdido.
+* Caso tenha passado por apenas um a regra continua a mesma, considera apena 1 na perda total.
+* Até mesmo não ter peda nenhuma vaso os pedagios esteja após o ponto de encontro.
+* Com isto existe muitas formas de calcular, dependendo da localização dos pedagios.
 
 
   
