@@ -49,8 +49,11 @@ Conclusão:
 * O caminhão percorreu aproximadamente 68,8 km até o ponto de encontro.
 * Somando as distancias = 54,9 + 68,8 ≈ 123,7 (Proximo aos 125 Km de distancia do percurso, variação devido ao arredondamento)
 
-> A distancia de Riberão Preto dos 2 veiculos do momento do cruzamento deles na rodovia é a mesma, pois no ponto de encontro os dois estãram no mesmo ponto da rodovia. 
-![image](https://github.com/user-attachments/assets/4d90ab14-3836-4d91-a551-063a65c899f0)
+> A distancia de Riberão Preto dos 2 veiculos do momento do cruzamento deles na rodovia é a mesma, pois no ponto de encontro os dois estãram no mesmo ponto da rodovia.
+
+![image](https://github.com/user-attachments/assets/0534e4df-858f-4edf-b2c0-6fbbf1104c77)
+
+
 
 
   
