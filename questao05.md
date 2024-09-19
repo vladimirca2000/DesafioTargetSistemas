@@ -63,7 +63,7 @@ A posição dos pedágios pode afetar o ponto de encontro.
 * Até mesmo não ter peda nenhuma vaso os pedagios esteja após o ponto de encontro.
 * Com isto existe muitas formas de calcular, dependendo da localização dos pedagios.
 
-### Posível solução.
+### Possível solução.
 * Saber a posição dos pedagios,
 * Verificar o ponto de encontro sem os pedagios, acrescentando a distância total percorrida pelo caminhão enquanto carro estiver parado nos pedagios.
   
