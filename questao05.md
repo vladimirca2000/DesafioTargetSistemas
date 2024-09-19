@@ -63,8 +63,32 @@ A posição dos pedágios pode afetar o ponto de encontro.
 * Até mesmo não ter peda nenhuma vaso os pedagios esteja após o ponto de encontro.
 * Com isto existe muitas formas de calcular, dependendo da localização dos pedagios.
 
-### Possível solução.
+## Possível solução.
 * Saber a posição dos pedagios,
 * Verificar o ponto de encontro sem os pedagios, acrescentando a distância total percorrida pelo caminhão enquanto carro estiver parado nos pedagios.
+
+### supondo 1 pedagios passados pelo carro antes do encontro
+
+* tempoPedagio = numero pedagigio passando * 5
+* tempoPercursoCaminhao = percuso / velocidade => 125 / 80 = 1,56 h = 93,75 min
+* tempoPercursoCarro = (percusro / velocidade) => 125 / 90 = 1,388 h = 83,28 min
+* tempoMedio = (tempoPedagio + (((tempoCaminhão + tempoCarro) / 2)) / 2 => (5 + (((93,75 + 83,28) / 2) / 2 => (5 + 88,515) / 2 = 46,7575 min
   
+#### Com tempo de encontro calculado, basta mutiplicar pela velocidadede de cada veiculo pelo pelo tempo de encontro
+
+* PercursoCarro = Velocidade * (tempoMedio - tempoPedagio) => 90 * (41,7575/60) = 62,63 Km
+* PercursoCaminhão = Velocidade * tempoMedio  => 80 * (46,7575/60) = 62,32 Km
+
+
+### supondo 2 pedagios passados pelo carro antes do encontro
+
+* tempoPedagio = numero pedagigio passando * 5
+* tempoPercursoCaminhao = percuso / velocidade => 125 / 80 = 1,56 h = 93,75 min
+* tempoPercursoCarro = (percusro / velocidade) => 125 / 90 = 1,388 h = 83,28 min
+* tempoMedio = (tempoPedagio + (((tempoCaminhão + tempoCarro) / 2)) / 2 => (10 + (((93,75 + 83,28) / 2) / 2 => (10 + 88,515) / 2 = 49,27 min
+  
+#### Com tempo de encontro calculado, basta mutiplicar pela velocidadede de cada veiculo pelo pelo tempo de encontro
+
+* PercursoCarro = Velocidade * (tempoMedio - tempoPedagio) => 90 * (39,27/60) = 58,90 Km
+* PercursoCaminhão = Velocidade * tempoMedio  => 80 * (49,27/60) = 65,69 Km
   
